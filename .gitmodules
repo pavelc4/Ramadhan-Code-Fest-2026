@@ -49,3 +49,9 @@
 [submodule "SEO-Sitemap-Discovery"]
 	path = SEO-Sitemap-Discovery
 	url = https://github.com/reynaldiarya/SEO-Sitemap-Discovery.git
+[submodule "Internet-Asset-Manager-Filament"]
+	path = Internet-Asset-Manager-Filament
+	url = https://github.com/Akselerasi-Prima-Digital/Internet-Asset-Manager-Filament.git
+[submodule "Flip-for-Business-PHP"]
+	path = Flip-for-Business-PHP
+	url = https://github.com/Akselerasi-Prima-Digital/Flip-for-Business-PHP.git

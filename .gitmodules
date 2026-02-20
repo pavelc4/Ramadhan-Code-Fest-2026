@@ -37,3 +37,9 @@
 [submodule "Ai-On-TelegramBot"]
         path = Ai-On-TelegramBot
         url = https://github.com/Gustyx-Power/Ai-On-TelegramBot.git
+[submodule "Internet-Asset-Manager-Filament"]
+	path = Internet-Asset-Manager-Filament
+	url = https://github.com/Akselerasi-Prima-Digital/Internet-Asset-Manager-Filament.git
+[submodule "Flip-for-Business-PHP"]
+	path = Flip-for-Business-PHP
+	url = https://github.com/Akselerasi-Prima-Digital/Flip-for-Business-PHP.git

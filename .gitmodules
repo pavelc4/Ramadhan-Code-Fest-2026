@@ -61,3 +61,6 @@
 [submodule "gov-wtf"]
 	path = gov-wtf
 	url = https://github.com/euxzy/gov-wtf.git
+[submodule "imalrightjack-bot"]
+	path = imalrightjack-bot
+	url = https://github.com/bbeetlesam/imalrightjack-bot
